@@ -21,3 +21,4 @@ With guidance from [Spinning Up](https://spinningup.openai.com):
 
 * **RNN** - *Recurrent Neural Network*
   * **LSTM** - *Long Short-term Memory*
+* **CNN** and **MCTS** - *Convolutional Neural Network* and *Monte Carlo Tree Search*: [AI safety via debate](https://arxiv.org/abs/1805.00899)
